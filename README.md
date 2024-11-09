@@ -5,8 +5,8 @@ Crear una página web sobre el tema de tu elección con el uso de HTML y CSS. É
 
 ### Instrucciones
 Crear un archivo HTML que contenga la estructura de tu página web y que incluya varios de los elementos revisados en clase, como:
-•	Header
-•	Artículo
-•	Párrafo
-•	Imagen
-•	Crea un archivo CSS para dar estilo a tu página Web, haciendo uso de al menos 2 tipos de selectores (id, clase, etiqueta)
+  * 	Header
+  * 	Artículo
+  * 	Párrafo
+  * 	Imagen
+  * 	Crea un archivo CSS para dar estilo a tu página Web, haciendo uso de al menos 2 tipos de selectores (id, clase, etiqueta)
